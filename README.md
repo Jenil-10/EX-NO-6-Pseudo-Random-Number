@@ -6,8 +6,8 @@ Implementation of Pseudorandom Number Generation Using Standard library
 
 # PROGRAM
 ```
-NAME: NIKSHITHA G
-REG NO: 212223110031
+NAME: jenil pio j
+REG NO: 212223220040
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -35,7 +35,8 @@ int main()
 ```
 
 # OUTPUT
-![alt text](<Screenshot (29).png>)
+![image](https://github.com/user-attachments/assets/01d2ea68-fe83-4626-9a56-232a355e2267)
+
 
 
 # RESULT
